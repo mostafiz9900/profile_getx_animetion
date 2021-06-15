@@ -1,5 +1,7 @@
 import 'package:get/get.dart';
 
+import 'package:profile_getx_animetion/app/modules/company_details/bindings/company_details_binding.dart';
+import 'package:profile_getx_animetion/app/modules/company_details/views/company_details_view.dart';
 import 'package:profile_getx_animetion/app/modules/home/bindings/home_binding.dart';
 import 'package:profile_getx_animetion/app/modules/home/views/home_view.dart';
 
@@ -15,6 +17,11 @@ class AppPages {
       name: _Paths.HOME,
       page: () => HomeView(),
       binding: HomeBinding(),
+    ),
+    GetPage(
+      name: _Paths.COMPANY_DETAILS,
+      page: () => CompanyDetailsView(),
+      binding: CompanyDetailsBinding(),
     ),
   ];
 }

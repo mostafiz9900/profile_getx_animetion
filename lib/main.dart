@@ -17,6 +17,9 @@ class MyApp extends StatelessWidget {
       title: "Application",
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
+      theme: ThemeData(
+        primaryColor: Colors.deepOrange
+      ),
     );
   }
 }
