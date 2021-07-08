@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
 import 'package:profile_getx_animetion/app/data/models/company.dart';
-import 'package:profile_getx_animetion/app/modules/global_widgets/company_details_intro_animation.dart';
+import 'package:profile_getx_animetion/app/global_widgets/company_details_intro_animation.dart';
 
 import '../controllers/company_details_controller.dart';
 

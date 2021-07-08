@@ -12,21 +12,21 @@ class RepoData{
       Course(
         title: 'The Complete Android & Java Bootcamp',
         thumbnail: 'assets/location_img.png',
-        url: 'https://www.udemy.com'
+        url: 'https://github.com/mostafiz9900/profile_getx_animetion'
       ),
       Course(
           title: 'The Complete Android & Java Bootcamp',
           thumbnail: 'assets/location_img.png',
-          url: 'https://www.udemy.com'
+          url: 'https://github.com/mostafiz9900/profile_getx_animetion'
       ),
       Course(
           title: 'The Complete Android & Java Bootcamp',
           thumbnail: 'assets/location_img.png',
-          url: 'https://www.udemy.com'
+          url: 'https://github.com/mostafiz9900/profile_getx_animetion'
       ), Course(
           title: 'The Complete Android & Java Bootcamp',
           thumbnail: 'assets/location_img.png',
-          url: 'https://www.udemy.com'
+          url: 'https://github.com/mostafiz9900/profile_getx_animetion'
       ),
 
     ]
